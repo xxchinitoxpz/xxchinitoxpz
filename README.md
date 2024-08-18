@@ -72,7 +72,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
-</p>svg" alt="viento de cola" width="40" height="40"/> </a> </p>
+</p>
 
 <p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxchinitoxpz&show_icons=true&locale=es&layout=compact" alt="xxchinitoxpz" /></p>
 
